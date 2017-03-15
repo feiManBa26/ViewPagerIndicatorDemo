@@ -19,6 +19,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void initview() {
         mVp = (ViewPager) findViewById(R.id.vp);
+        for (int i = 0; i < strArray.length; i++) {
 
+        }
     }
 }
